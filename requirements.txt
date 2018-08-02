@@ -1,3 +1,5 @@
 flask
 dotenv
 requests
+flask-apidoc
+flask-script
